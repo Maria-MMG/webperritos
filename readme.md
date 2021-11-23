@@ -1,6 +1,5 @@
-git init  
-git add .   
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Maria-MMG/webperritos.git
-git push -u origin main
+# Página web sobre mscotas
+## Introducción
+Nuestra página *web* muestra infomación sobre los tipos de **razas de perros** existentes. Somos una **_asociación_** amante de los animales. Fuck ~~maltrato~~ fuck sapo
+
+
